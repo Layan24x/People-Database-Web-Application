@@ -447,6 +447,7 @@ htdocs/
 ```
 
 The website can then be accessed using the InfinityFree website URL.
+
 Link : https://lay.infy.click/
 
 ---
