@@ -352,17 +352,17 @@ Example:
 
 | **ID** | **Name** | **Age** | **Status** | **Action** |
 |---:|---|---:|---:|---|
-| 1 | Michael | 22 | 0 | Toggle |
+| 1 | John | 25 | 0 | Toggle |
 | 2 | Sarah | 30 | 1 | Toggle |
-| 3 | John | 25 | 0 | Toggle |
+| 3 | Michael | 22 | 0 | Toggle |
 
 If a new person is added:
 
 | **ID** | **Name** | **Age** | **Status** | **Action** |
 |---:|---|---:|---:|---|
-| 1 | Michael | 22 | 0 | Toggle |
+| 1 | Michael | 25 | 0 | Toggle |
 | 2 | Sarah | 30 | 1 | Toggle |
-| 3 | John | 25 | 0 | Toggle |
+| 3 | John | 22 | 0 | Toggle |
 | 4 | Layan | 21 | 0 | Toggle |
 
 ---
