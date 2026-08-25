@@ -19,7 +19,7 @@ The application allows the user to:
 
 The following technologies were used:
 
-- **HTML** – Building the web page structure.
+- **HTML** – Building the web page structure used in 'index.php'.
 - **CSS** – Designing and styling the interface.
 - **JavaScript** – Handling user interactions and live updates.
 - **PHP** – Backend processing and database communication.
